@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.1.0](https://github.com/daisyui/react-daisyui/compare/v2.0.6...v2.1.0) (2022-07-14)
+
+
+### Features
+
+* allow SVGs in Avatar [#146](https://github.com/daisyui/react-daisyui/issues/146) ([#164](https://github.com/daisyui/react-daisyui/issues/164)) ([8ba2767](https://github.com/daisyui/react-daisyui/commit/8ba2767f8f4ff96062449cd8f0c67af0709544b6))
+* collapse now allows onOpen, onClose, and onToggle props ([#165](https://github.com/daisyui/react-daisyui/issues/165)) ([c9deedf](https://github.com/daisyui/react-daisyui/commit/c9deedfd12c1d203e82e6a0f2ba88fb309080ee7))
+
+
+### Bug Fixes
+
+* prevent bundling story type definitions [#131](https://github.com/daisyui/react-daisyui/issues/131) ([#163](https://github.com/daisyui/react-daisyui/issues/163)) ([f44da69](https://github.com/daisyui/react-daisyui/commit/f44da6993012a6a742ced4fcf96618bed9ec2347))
+
 ## [2.0.6](https://github.com/daisyui/react-daisyui/compare/v2.0.5...v2.0.6) (2022-07-07)
 
 
